@@ -1,0 +1,3 @@
+function disappear (){
+    $("#test").hide();
+}
